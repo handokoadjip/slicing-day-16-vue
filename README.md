@@ -1,4 +1,4 @@
-# day-1-vue
+# Norm Architects | YACHTBAU
 
 ## Project setup
 ```
